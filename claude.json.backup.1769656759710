@@ -1,0 +1,36 @@
+{
+  "installMethod": "native",
+  "autoUpdates": false,
+  "cachedGrowthBookFeatures": {
+    "tengu_1p_event_batch_config": {
+      "scheduledDelayMillis": 5000,
+      "maxExportBatchSize": 200,
+      "maxQueueSize": 8192
+    },
+    "tengu_mcp_tool_search": false,
+    "tengu_scratch": false,
+    "tengu_brass_pebble": false,
+    "tengu_event_sampling_config": {},
+    "tengu_tool_pear": false,
+    "tengu_scarf_coffee": false,
+    "tengu_log_segment_events": false,
+    "tengu_log_datadog_events": true,
+    "tengu_keybinding_customization_release": false,
+    "tengu_thinkback": false,
+    "tengu_disable_bypass_permissions_mode": false,
+    "tengu_claudeai_mcp_connectors": false,
+    "tengu_pid_based_version_locking": true,
+    "tengu_marble_kite": false,
+    "tengu_kv7_prompt_sort": false,
+    "enhanced_telemetry_beta": false,
+    "tengu_cache_plum_violet": false,
+    "tengu_streaming_tool_execution2": false
+  },
+  "userID": "c9ad24595e0bfb932ae3dab1d1b7923f89dab33b7c044fabdb110fdbb54be609",
+  "firstStartTime": "2026-01-27T08:10:28.347Z",
+  "sonnet45MigrationComplete": true,
+  "opus45MigrationComplete": true,
+  "opusProMigrationComplete": true,
+  "thinkingMigrationComplete": true,
+  "autoUpdatesProtectedForNative": true
+}

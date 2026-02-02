@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "sessionId": "3923eeec-822e-494f-815f-dfbed8695bd8",
+      "fullPath": "/home/user/.claude/projects/-home-user/3923eeec-822e-494f-815f-dfbed8695bd8.jsonl",
+      "fileMtime": 0,
+      "firstPrompt": "You are planning an app based on requirements.\\n\\n## Your Task\\nRead the project document (which contains both project context AND requirements), then create an execution plan.\\n\\n## IMPORTANT: Pre-Sc…",
+      "messageCount": 5,
+      "created": "2026-01-29T03:23:45.019Z",
+      "modified": "2026-01-29T03:25:15.459Z",
+      "gitBranch": "",
+      "projectPath": "/home/user",
+      "isSidechain": false
+    }
+  ],
+  "originalPath": "/home/user"
+}
